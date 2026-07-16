@@ -11,4 +11,4 @@ print("y is:", y)
 #x is: 5
 #y is: 10
 
-#Variables are containers that store data in it
+#Variables are containers that store data in it.
