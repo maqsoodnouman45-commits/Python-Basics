@@ -1,4 +1,5 @@
-#Code for a POEM in Python
+#Code for a POEM in Python.
+
 print("""No brackets lock the logic tight,
 No semicolons end the night.
 With clean layout and elegant space,
