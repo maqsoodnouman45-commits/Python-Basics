@@ -7,4 +7,4 @@ rounded_gpa = round(gpa)
 print("Rounded GPA:", rounded_gpa)
 print("Rounded type:", type(rounded_gpa))
 
-#round() function is used to round the value of gpa to the nearest integer.
+#round() function is used to round the value of gpa to the nearest integer
