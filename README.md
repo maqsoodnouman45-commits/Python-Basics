@@ -1,2 +1,3 @@
 # Python Basics
-Here are the basics of Python from HELLO WORLD to basic small projects
+
+Here are Python Basics from scratch to base concepts like variables, escape sequences, loops, functions, typecasting, print statements, conditionals and file handling.
