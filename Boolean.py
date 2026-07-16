@@ -1,4 +1,4 @@
-#Boolean-Predict output of code below
+#Boolean-Predict output of code below.
 
 is_sunny = True
 is_raining = False
