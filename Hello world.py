@@ -1,2 +1,3 @@
-#Code of HELLO WORLD in Python
+#Code of HELLO WORLD in Python.
+
 print("Hello World")
